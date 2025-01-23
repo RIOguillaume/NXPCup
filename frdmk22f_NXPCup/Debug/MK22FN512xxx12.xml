@@ -1,0 +1,5 @@
+<directory>
+ <chips chipVendor='NXP' >
+  <chip name='MK22FN512xxx12' xml_file='MK22FN512xxx12_part.xml' />
+ </chips>
+</directory> 

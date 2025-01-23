@@ -1,0 +1,9 @@
+C:\Users\guill\Documents\MCUXpressoIDE_11.9.0_2144\workspace\frdmk22f_ftm_simple_pwm_PWM\drivers/fsl_clock.h:842:20:CLOCK_SetSimSafeDivs	4	static
+C:\Users\guill\Documents\MCUXpressoIDE_11.9.0_2144\workspace\frdmk22f_ftm_simple_pwm_PWM\drivers/fsl_clock.h:1184:20:CLOCK_SetXtal0Freq	16	static
+C:\Users\guill\Documents\MCUXpressoIDE_11.9.0_2144\workspace\frdmk22f_ftm_simple_pwm_PWM\drivers/fsl_smc.h:256:20:SMC_SetPowerModeProtection	16	static
+C:\Users\guill\Documents\MCUXpressoIDE_11.9.0_2144\workspace\frdmk22f_ftm_simple_pwm_PWM\drivers/fsl_smc.h:275:33:SMC_GetPowerModeState	16	static
+../board/clock_config.c:72:13:CLOCK_CONFIG_SetFllExtRefDiv	16	static
+../board/clock_config.c:80:6:BOARD_InitBootClocks	8	static
+../board/clock_config.c:173:6:BOARD_BootClockRUN	8	static
+../board/clock_config.c:275:6:BOARD_BootClockVLPR	8	static
+../board/clock_config.c:391:6:BOARD_BootClockHSRUN	8	static

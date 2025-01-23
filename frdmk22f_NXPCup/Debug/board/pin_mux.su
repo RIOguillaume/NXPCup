@@ -1,0 +1,5 @@
+C:\Users\guill\Documents\MCUXpressoIDE_11.9.0_2144\workspace\frdmk22f_ftm_simple_pwm_PWM\drivers/fsl_clock.h:627:20:CLOCK_EnableClock	24	static
+C:\Users\guill\Documents\MCUXpressoIDE_11.9.0_2144\workspace\frdmk22f_ftm_simple_pwm_PWM\drivers/fsl_port.h:459:20:PORT_SetPinMux	24	static
+C:\Users\guill\Documents\MCUXpressoIDE_11.9.0_2144\workspace\frdmk22f_ftm_simple_pwm_PWM\drivers/fsl_dmamux.h:110:20:DMAMUX_SetSource	24	static
+../board/pin_mux.c:31:6:BOARD_InitBootPins	8	static
+../board/pin_mux.c:67:6:BOARD_InitPins	8	static
